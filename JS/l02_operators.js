@@ -25,7 +25,7 @@ number = number + 10;
 number += 10;
 
 var firstName = "Matt";
-var lastName = "Daemon";
+var lastName = "something";
 var fullName = firstName + " " + lastName;
 
 document.write(fullName);
